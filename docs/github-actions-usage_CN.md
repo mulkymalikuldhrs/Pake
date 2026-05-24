@@ -43,3 +43,9 @@
 
 - [CLI 文档](cli-usage_CN.md)
 - [高级用法](advanced-usage_CN.md)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

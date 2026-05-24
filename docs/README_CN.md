@@ -21,3 +21,9 @@
 - [发布页面](https://github.com/tw93/Pake/releases)
 - [讨论区](https://github.com/tw93/Pake/discussions)
 - [问题反馈](https://github.com/tw93/Pake/issues)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

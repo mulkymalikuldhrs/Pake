@@ -344,3 +344,9 @@ Total: **13 tests** - all passing indicates CLI functionality is working properl
 
 - [CLI Documentation](cli-usage.md)
 - [GitHub Discussions](https://github.com/tw93/Pake/discussions)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

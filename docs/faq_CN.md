@@ -424,3 +424,9 @@ Can't detect any appindicator library
   ```
 
 为了确保打包环境的完整性，推荐一次性安装所有 Tauri 所需的依赖。请参考本文档中关于 `failed to run linuxdeploy` 问题的解决方案，其中包含了完整的依赖列表。
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

@@ -344,3 +344,9 @@ node ./tests/release.js
 
 - [CLI 文档](cli-usage_CN.md)
 - [GitHub 讨论区](https://github.com/tw93/Pake/discussions)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

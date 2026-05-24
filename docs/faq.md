@@ -395,3 +395,9 @@ If your issue isn't covered here:
    - Node.js and Rust versions (`node --version`, `rustc --version`)
    - Complete error message
    - Build command you used
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

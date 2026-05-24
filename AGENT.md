@@ -126,3 +126,9 @@
   5. Update `src-tauri/src/app/config.rs` (Struct definition) if it needs to pass to Rust.
 - **Modifying Menu**: Edit `src-tauri/src/lib.rs` inside `setup` closure.
 - **Updating Injected Script**: Edit `src-tauri/src/inject/event.js` or `component.js`.
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

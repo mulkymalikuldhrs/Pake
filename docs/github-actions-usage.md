@@ -43,3 +43,9 @@ Build Pake apps online without installing development tools locally.
 
 - [CLI Documentation](cli-usage.md)
 - [Advanced Usage](advanced-usage.md)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
